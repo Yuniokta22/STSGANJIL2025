@@ -128,7 +128,7 @@ body {
 .content {
   flex: 1;
   /*untuk mengisi sisa ruang*/
-  background: lightyellow;
+  background: lightyellow#E69BE7;
   padding: 20px;
   border-left: 2px solid grey;
   overflow-y: auto;
